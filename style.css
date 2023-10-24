@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+    box-sizing: border-box;
+  
+  }
+  
+  main{
+      width: 1440px;
+      margin: 0 auto;
+      position: relative;
+  }
+  
+  
+  
+  a{
+      text-decoration-line: none;
+      display: block;
+  }
